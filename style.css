@@ -1,0 +1,39 @@
+main{
+
+}
+.botão{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 1px solid rgb(155, 200, 214);
+    border-radius: 9px;
+    cursor: pointer;
+}
+.botãoEspecial{
+    width: 140px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 1px solid rgb(155, 200, 214);
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 1px solid rgb(155, 200, 214);
+    border-radius: 5px;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
